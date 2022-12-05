@@ -3,12 +3,12 @@
     "version": "3.0.0",
     "description": "Removes all spaces from a string",
     "license": "MIT",
-    "repository": "bamblehorse/tiny",
+    "repository": "ashishgokhale/tiny",
     "main": "index.js",
     "keywords": [
         "tiny",
         "npm",
         "package",
-        "bamblehorse"
+        "ashishgokhale"
     ]
 }
